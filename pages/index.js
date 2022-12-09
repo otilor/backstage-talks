@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-          <Image className='p-4' src="/images/logo.png" alt="Cover" width={280} height={1000} />
+          <Image className='p-5' src="/images/logo.png" alt="Cover" width={300} height={1000} />
           <div className='fixed bottom-0 w-64 left-0 whitespace-normal'>
           Backstage Talks is a magazine of casual, but in depth dialogues on design and business. Our decisions shape and influence this complex world—to have a chance to make the right ones, we need to talk.
           </div>
