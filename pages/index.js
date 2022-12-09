@@ -11,8 +11,8 @@ export default function Home() {
 
       <main>
         <div>
-          <p>Backstage Talks</p>
-          <p>info@backstagetalks.com</p>
+          <div className="fixed top-0 left-0 right-0">Contacts</div>
+          <p className='right-0'>info@backstagetalks.com</p>
         </div>
       </main>
 
