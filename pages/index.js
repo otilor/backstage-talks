@@ -10,10 +10,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <div>
-          <div className="fixed top-0 left-0 right-0">Contacts</div>
-          <p className='right-0'>info@backstagetalks.com</p>
-        </div>
+          <div className="absolute top-0 left-0 h-16 w-16">Contacts</div>
+          <div className='absolute top-0 right-0 h-16 w-16'>info@backstagetalks.com</div>
       </main>
 
     </div>
