@@ -10,7 +10,10 @@ export default function Home() {
       </Head>
 
       <main>
-        
+        <div>
+          <p>Backstage Talks</p>
+          <p>info@backstagetalks.com</p>
+        </div>
       </main>
 
     </div>
