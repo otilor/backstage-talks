@@ -18,13 +18,13 @@ export default function Home() {
           width={300}
           height={1000}
         />
-        <div className="fixed top-0 right-0 p-5">info@backstagetalks.com</div>
+        <div className="fixed top-0 right-0 p-5 font-bold">info@backstagetalks.com</div>
         <div className="fixed bottom-0 w-64 px-5 font-bold left-0 whitespace-normal">
           Backstage Talks is a magazine of casual, but in depth dialogues on
           design and business. Our decisions shape and influence this complex
           world—to have a chance to make the right ones, we need to talk.
         </div>
-        <div className="fixed bottom-0 p-5 right-0 font-extrabold">
+        <div className="fixed bottom-0 p-5 right-0 font-bold">
           <p>Issue #6</p>
           <p>Issue #6</p>
           <p>Issue #6</p>
