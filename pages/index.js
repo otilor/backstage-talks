@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Image
-          className="px- py-5"
+          className="px-5 py-5"
           src="/images/logo.png"
           alt="Cover"
           width={300}
