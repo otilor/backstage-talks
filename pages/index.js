@@ -24,7 +24,7 @@ export default function Home() {
           design and business. Our decisions shape and influence this complex
           world—to have a chance to make the right ones, we need to talk.
         </div>
-        <div className="fixed bottom-0 p-5 right-0">
+        <div className="fixed bottom-0 p-5 right-0 font-extrabold">
           <p>Issue #6</p>
           <p>Issue #6</p>
           <p>Issue #6</p>
