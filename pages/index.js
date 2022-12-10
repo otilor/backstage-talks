@@ -32,25 +32,25 @@ export default function Home() {
           <p>Issue #6</p>
         </div>
 
-        <div className="snap-y">
+        <div className="snap-y items-center justify-center h-screen">
         <div id="issue6 snap-center">
-          <Image src="/images/backstagetalks_cover_issue_6.png" alt="Cover" width={300} height={1000} />
+          <Image src="/images/backstagetalks_cover_issue_6.png" alt="Cover" width={700} height={100} />
         </div>
         <div id="issue5 snap-center">
-          <Image src="/images/backstagetalks_cover_issue_5.png" alt="Cover" width={300} height={1000} />
+          <Image src="/images/backstagetalks_cover_issue_5.png" alt="Cover" width={700} height={100} />
 
         </div>
         <div id="issue4 snap-center">
-        <Image src="/images/backstagetalks_cover_issue_4.png" alt="Cover" width={300} height={1000} />
+        <Image src="/images/backstagetalks_cover_issue_4.png" alt="Cover" width={700} height={100} />
         </div>
         <div id="issue3 snap-center">
-        <Image src="/images/backstagetalks_cover_issue_3.png" alt="Cover" width={300} height={1000} />
+        <Image src="/images/backstagetalks_cover_issue_3.png" alt="Cover" width={700} height={100} />
         </div>
         <div id="issue2 snap-center">
-        <Image src="/images/backstagetalks_cover2017.png" alt="Cover" width={300} height={1000} />
+        <Image src="/images/backstagetalks_cover2017.png" alt="Cover" width={700} height={100} />
         </div>
         <div id="issue1 snap-center">
-        <Image src="/images/backstagetalks_cover2016_n.png" alt="Cover" width={300} height={1000} />
+        <Image src="/images/backstagetalks_cover2016_n.png" alt="Cover" width={700} height={100} />
         </div>
         </div>
         
