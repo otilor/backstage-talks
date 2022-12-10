@@ -31,6 +31,26 @@ export default function Home() {
           <p>Issue #6</p>
           <p>Issue #6</p>
         </div>
+
+        <div id="issue6">
+          <Image src="/images/backstagetalks_cover_issue_6.png" alt="Cover" width={300} height={1000} />
+        </div>
+        <div id="issue5">
+          <Image src="/images/backstagetalks_cover_issue_5.png" alt="Cover" width={300} height={1000} />
+
+        </div>
+        <div id="issue4">
+        <Image src="/images/backstagetalks_cover_issue_4.png" alt="Cover" width={300} height={1000} />
+        </div>
+        <div id="issue3">
+        <Image src="/images/backstagetalks_cover_issue_3.png" alt="Cover" width={300} height={1000} />
+        </div>
+        <div id="issue2">
+        <Image src="/images/backstagetalks_cover2017.png" alt="Cover" width={300} height={1000} />
+        </div>
+        <div id="issue1">
+        <Image src="/images/backstagetalks_cover2016_n.png" alt="Cover" width={300} height={1000} />
+        </div>
       </main>
     </div>
   );
