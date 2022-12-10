@@ -32,7 +32,7 @@ export default function Home() {
           <p>Issue #6</p>
         </div>
 
-        <div className="snap-y items-center justify-center h-screen">
+        <div className="grid snap-y items-center justify-center h-screen">
         <div id="issue6 snap-center">
           <Image src="/images/backstagetalks_cover_issue_6.png" alt="Cover" width={700} height={100} />
         </div>
