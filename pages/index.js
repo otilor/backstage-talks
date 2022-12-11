@@ -32,24 +32,23 @@ export default function Home() {
           <p>Issue #6</p>
         </div>
 
-        <div className="grid snap-mandatory snap-y items-center justify-center h-screen">
-        <div id="issue6" className="snap-center">
+        <div className="snap-mandatory snap-y h-screen overflow-scroll">
+        <div id="issue6" className="snap-start w-screen h-screen flex items-center justify-center">
           <Image src="/images/backstagetalks_cover_issue_6.png" alt="Cover" width={400} height={0} />
         </div>
-        <div id="issue5" className="snap-center">
+        <div id="issue5" className="snap-start bg-teal-400 w-screen h-screen flex items-center justify-center">
           <Image src="/images/backstagetalks_cover_issue_5.png" alt="Cover" width={400} height={100} />
-
         </div>
-        <div id="issue4" className="snap-center">
+        <div id="issue4" className="snap-start bg-orange-500 w-screen h-screen flex items-center justify-center">
         <Image src="/images/backstagetalks_cover_issue_4.png" alt="Cover" width={400} height={100} />
         </div>
-        <div id="issue3" className="snap-center">
+        <div id="issue3" className="snap-start bg-yellow-500 w-screen h-screen flex items-center justify-center">
         <Image src="/images/backstagetalks_cover_issue_3.png" alt="Cover" width={400} height={100} />
         </div>
-        <div id="issue2" className="snap-center">
+        <div id="issue2" className="snap-start bg-blue-800 w-screen h-screen flex items-center justify-center">
         <Image src="/images/backstagetalks_cover2017.png" alt="Cover" width={400} height={100} />
         </div>
-        <div id="issue1" className="snap-center">
+        <div id="issue1" className="snap-start w-screen h-screen">
         <Image src="/images/backstagetalks_cover2016_n.png" alt="Cover" width={400} height={100} />
         </div>
         </div>
