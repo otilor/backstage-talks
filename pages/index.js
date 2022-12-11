@@ -48,7 +48,7 @@ export default function Home() {
         <div id="issue2" className="snap-start bg-blue-800 w-screen h-screen flex items-center justify-center">
         <Image src="/images/backstagetalks_cover2017.png" alt="Cover" width={400} height={100} />
         </div>
-        <div id="issue1" className="snap-start w-screen h-screen">
+        <div id="issue1" className="snap-start bg-red-700 w-screen h-screen flex items-center justify-center">
         <Image src="/images/backstagetalks_cover2016_n.png" alt="Cover" width={400} height={100} />
         </div>
         </div>
